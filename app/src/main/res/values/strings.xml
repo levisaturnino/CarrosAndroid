@@ -6,7 +6,7 @@
     <string name="titulo">Carros Showcase</string>
     <!-- Mensagens -->
     <string name="erro_conexao_indisponivel">Conexão indisponível, por favor ative sua rede móvel ou Wi-Fi.</string>
-    <string name="erro_io">Ooops, sistema indisponível nom momento.</string>
+    <string name="erro_io">Ooops, sistema indisponível nom memento.</string>
     <!-- Labels -->
     <string name="abrirSite">Abrir o Site</string>
     <string name="menu_luxo">Luxo</string>
